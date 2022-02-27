@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By His Highness. A proclamation for the better encouragement of godly ministers and others and their enjoying their dues and liberty according to lavv.</title>
+            <author>England and Wales. Lord Protector (1658-1660 : R. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81033</idno>
+            <idno type="STC">Wing C7189</idno>
+            <idno type="STC">Thomason 669.f.21[13]</idno>
+            <idno type="STC">ESTC R211099</idno>
+            <idno type="EEBO-CITATION">99869837</idno>
+            <idno type="PROQUEST">99869837</idno>
+            <idno type="VID">163508</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163508)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f21[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By His Highness. A proclamation for the better encouragement of godly ministers and others and their enjoying their dues and liberty according to lavv.</title>
+                  <author>England and Wales. Lord Protector (1658-1660 : R. Cromwell)</author>
+                  <author>Cromwell, Richard, 1626-1712.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness the Lord Protector, 1658. And are to be sold at the sign of the Seven Stars in Fleetstreet over against Dunstans Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at White-Hall the twenty fifth day of November, in the year of our Lord God, one thousand six hundred fifty and eight.</note>
+                  <note>Annotation on Thomason copy: "[Illegible] 27."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:163508:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Cromwell</figDesc>
+                  <head>PROTECTOR OLIVARIVS DEI GRA REIPVB ANGLIAE SCOTIAE ET HIBERNIAE, &amp;<hi rend="sup">c</hi>
+                  </head>
+               </figure>By His Highneſs. A PROCLAMATION FOR THE Better encouragement of GODLY MINISTERS and others, and their enjoying their Dues and Liberty according to LAVV.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Highneſs the Lord Protector having been informed by Complaints from ſeveral parts of this Na<g ref="char:EOLhyphen"/>tion, how much diſcouragement hath been lately given to many Godly and Painful Miniſters endea<g ref="char:EOLhyphen"/>voring Reformation according to the preſent happy Eſtabliſhment, by the practices of ſome, not onely in withholding from them the Tithes and other Duties, which by the Laws of this Common<g ref="char:EOLhyphen"/>wealth are belonging unto them as Publique Preachers; but proſecuting them by Indictments for not uſing the Common-prayer Book, not adminiſtring Sacraments unto all their Pariſhioners, and the like omiſſions; and conſidering how apt the evil example and ſuggeſts of ſome few perſons is, to provoke and miſlead others; hath thought it fit and neceſſary to apply a ſeaſonable remedy for preventing ſo great an evil. It is evident, that as ſoon as the Lord began to deliver this Nation out of the darkneſs of Popery in the times of <hi>Edward</hi> the ſixth, and Queen <hi>Elizabeth,</hi> much oppoſition was raiſed againſt that Reformation; on the one hand by Popiſh Prieſts, who pretending a Conformity, continued in their ſeveral Cures, but yet retained their old Superſtitious practices, in adminiſtring the Sacrament of the Lords Supper under the form of Bread onely, to the people, and denying the ſame unto ſuch as would not ſo receive it, and in private Communions, wherein the Prieſt onely did partake of both Elements of Bread and Wine: And on the other hand by the People, who being wedded to their old Cuſtoms, and becauſe they could not have Divine Service and Devotions in ſuch a Popiſh and Superſtitious Form as before time, did not onely by Songs, Libels and Scurrilous reflections, endeavor to re<g ref="char:EOLhyphen"/>proach the preſent Reformation, and the faithful Miniſters that were forward and zealous in it; but did alſo re<g ref="char:EOLhyphen"/>fuſe to allow and pay ſuch Miniſters their due Maintenance, putting them upon many chargeable Suits, and trou<g ref="char:EOLhyphen"/>bleſome Contentions, which became a great hindrance to the progreſs of the Goſpel. And as the latter of thoſe evils occaſioned Queen <hi>Elizabeth</hi> (according to the example of <hi>Edward</hi> the ſixth before in like caſe) in the firſt year of her Reign, with the advice of her Council, by her publique Injunctions, amongſt other things, ſtrictly to require and enjoyn as followeth, <hi>Foraſmuch as by Laws eſtabliſhed every man is bound to pay his Tithes, no man ſhall by colour of Duty omitted by their Curats detain their Tithes, and ſo requite one wrong for another, or be his own Judge, but ſhall truly pay the ſame, as hath been accuſtomed, to their Parſons, Vicars and Curats, without any reſtraint or diminution.</hi> Which Injuction, as formerly, ſo then took good effect, and prevented thoſe many Suits in Law, and other diſturbances which before Miniſters were moleſted with: So for relief of the People, and reforming the Superſtitious practices aforeſaid, remedy was provided by a Statute made in the firſt year of the Reign of the ſaid King <hi>Edward</hi> the ſixth. And although it plainly appears by the words of the ſaid Statute, that the ſame was intended onely to compel the Adminiſtration of that Sacrament under both kindes, (unto all ſuch as ſhould receive) according to the firſt Inſtitution, and to abo<g ref="char:EOLhyphen"/>liſh the Superſtitious practice of the Prieſts receiving alone, and adminiſtring it to the people under the form of Bread onely: nor doth the ſame enjoyn the admitting all perſons to that Ordinance, but that the Miniſter ſhould not without lawful cauſe deny the ſame to ſuch as ſhould deſire it; and by certain Injunctions ſet forth in the time of the ſaid King, ſeveral Cauſes were aſſigned for which the Miniſter might keep perſons from that Sacrament, which hath been owned and practiſed in all times ſince the ſaid Statute was made. And the Lord having by the light of the Goſpel, which hath ſhined more clearly in our days, diſcovered many things neceſſary to be further Reformed, for the preſerving the purity of his Ordinance, did put it into the hearts of the Parliament begun in <hi>1640.</hi> not onely to take away the Liturgy or Book of Common-prayer, but alſo to impoſe a Penalty upon any Miniſter that ſhall uſe the ſame, or the forms of Baptizing, Churchings, Burials, together with the Ceremonies of the Croſs, Sur<g ref="char:EOLhyphen"/>plice and other Superſtitious Rites in the Service of God; And likewiſe to provide that unfit and unworthy per<g ref="char:EOLhyphen"/>ſons ſhould by the Miniſter be refuſed and kept back from the Supper of the Lord, that thoſe holy Myſteries might not be abuſed: yet nevertheleſs under colour of the ſaid Act of <hi>1<hi rend="sup">o</hi> Edward</hi> the ſixth, (though contrary to the true mean<g ref="char:EOLhyphen"/>ing and end for which the ſame was made, and contrary to that liberty given and eſtabliſhed by the Humble Petition and Advice) divers godly and faithful Miniſters have been Indicted, Preſented, and otherwiſe moleſted for not Adminiſtring the Sacrament to all their Pariſhioners, and the Tithes and other Duties belonging to them detain<g ref="char:EOLhyphen"/>ed upon that account, and for not conforming to the old maner of Baptizing, Burials, and other things of the like kinde.</p>
+            <p>And as ſeveral Laws have been made both in former and latter times, for the due and better payment of Tithes, ſo for the avoiding of contentions between the people and their Miniſters about the ſame, by the Wisdom and Godly care of His late Highneſs with the Advice of His Council, an Ordinance was made appointing Commiſ<g ref="char:EOLhyphen"/>oners, conſiſting of Pious and Learned men, to judge of the worth and fitneſs, both for Gifts and Graces, of ſuch perſons as ſhall be from time to time preſented to Livings throughout the Nation, to the end ſuch fit and appro<g ref="char:EOLhyphen"/>ved perſons faithfully laboring in the Work of the Goſpel, might be in a capacity without farther controverſie to re<g ref="char:EOLhyphen"/>ceive ſuch Publique Maintenance: which after ſome years experience being found of great advantage, for furniſh<g ref="char:EOLhyphen"/>ing the Nation with a Pious and Able Miniſtery, hath ſince received the Approbation and Confirmation of Par-</p>
+            <p>Vpon conſideration of all which, His Highneſs holds himſelf obliged to uſe his Authority that thoſe Laws be ob<g ref="char:EOLhyphen"/>ſerved,
+<pb facs="tcp:163508:2" rendition="simple:additions"/> and to follow the good examples of the Governors of this Nation in former times, for the due encourage<g ref="char:EOLhyphen"/>ment of the Faithful and Conſcientious Preachers of the Goſpel, and preventing diſſenſions and Suits between them, and ſuch as live under their Miniſtry; And therefore His Highneſs with the Advice of his Privy Council, hath thought fit to enjoyn and require, and doth hereby enjoyn and require, all and every perſon and perſons within this Nation, that they do well and duly pay, diſcharge and ſatisfie from time to time, their Tithes and other Duties ac<g ref="char:EOLhyphen"/>crewing, growing due or belonging unto the reſpective Miniſters and Publique Preachers in their reſpective Pariſh<g ref="char:EOLhyphen"/>es within all and every the Counties, Cities, Towns and Places within this Nation, which by the Laws of the Land are or ſhall be ſetled and eſtabliſhed for the Maintenance of the Miniſter or Miniſters there, with the Arrears thereof; And that no perſon or perſons do withhold or diminiſh ſuch legal and rightful Dues and Duties, or moleſt any Miniſter by Preſentments or Indictments, or otherwiſe: Vpon pretence of ſuch omiſſions or refuſals, as are by the preſent Eſtabliſhment and Laws in force for further Reformation permitted or allowed. And His Highneſs doth fur<g ref="char:EOLhyphen"/>ther will and require all His Iudges, Iuſtices of Aſſize, Iuſtices of <hi>Oyer</hi> and <hi>Terminer,</hi> Iuſtices of the Peace, May<g ref="char:EOLhyphen"/>ors and Chief Officers within their reſpective Iurisdictions, to take eſpecial care that no Miniſter or Miniſters be moleſted or troubled contrary to the liberty granted by the Humble Petition and Advice; and that the Laws and Statutes for payment of Tithes and Duties to Miniſters be duely put in execution, and that no encouragement be given unto any perſon or perſons who ſhall deny the payment thereof upon any ſuch pretences as aforeſaid, but that they diſcountenance the ſame.</p>
+            <p>And His Highneſs doth hereby Declare, That it is his full purpoſe through the aſſiſtance of the Lord, to carry on and promote, to the utmoſt of his power, the Work of Reformation ſo happily begun and owned by God, and that he will make uſe of the Authority the Lord hath betruſted him with, for the Protection and Encouragement of ſuch God<g ref="char:EOLhyphen"/>ly and Painful Preachers of the Goſpel, whoſe hearts are engaged, and whoſe care and labours ſhall be conſcientiouſ<g ref="char:EOLhyphen"/>ly exerciſed in furthering ſo bleſſed a Work, in the enjoyment of the Liberty aforeſaid; And His Highneſs further pleaſure is, That His Highneſs Iudges, Iuſtices of Aſſize, and all other his Iuſtices of the Peace within this Com<g ref="char:EOLhyphen"/>monwealth, do take ſpecial care that no perſon or perſons (in prejudice of the Liberty given by the Humble Petition and Advice, or any other Laws or Ordinances in force) be interrupted, moleſted or troubled for their going to or from any place for the Service of God on the Lords day.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at <hi>White-Hall</hi>
+                  </hi> 
+                  <date>
+                     <hi>the Twenty fifth day of <hi>November,</hi> in the year of our Lord God, One thouſand ſix hundred fifty and eight.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs the Lord Protector, 1658.</p>
+            <p>And are to be ſold at the Sign of the Seven Stars in Fleetſtreet over againſt DUNSTANS Church.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
